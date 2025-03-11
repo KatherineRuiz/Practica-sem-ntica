@@ -1,6 +1,6 @@
 header{
     text-align: center;
-    background-color: rgb(207, 248, 255);
+    background-color: rgb(218, 216, 216);
 }
 
 nav li{
@@ -16,4 +16,14 @@ nav a{
 
 .logo{
     width: 95px;
+}
+
+.menu{
+    margin: 20px;
+}
+
+img{
+    width: 300px;
+    border-radius: 20px;
+
 }
